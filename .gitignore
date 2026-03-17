@@ -1,0 +1,7 @@
+node_modules/
+screenshots/
+audit.js
+seo-audit.js
+visual-audit.js
+package-lock.json
+package.json
