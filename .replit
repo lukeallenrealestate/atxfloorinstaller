@@ -7,11 +7,11 @@ run = ["node", "server.js"]
 deploymentTarget = "autoscale"
 
 [[ports]]
-localPort = 8080
+localPort = 5000
 externalPort = 80
 
 [[ports]]
-localPort = 5000
+localPort = 8080
 externalPort = 80
 
 [agent]
@@ -40,3 +40,8 @@ waitForPort = 5000
 
 [workflows.workflow.metadata]
 outputType = "webview"
+
+[userenv]
+
+[userenv.development]
+PORT = "5000"
