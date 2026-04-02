@@ -354,6 +354,70 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <!-- Westlake Hills Combo Pages -->
+  <url>
+    <loc>https://atxfloorinstaller.com/hardwood-flooring-westlake-hills-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/lvp-flooring-westlake-hills-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/tile-installation-westlake-hills-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Lakeway Combo Pages -->
+  <url>
+    <loc>https://atxfloorinstaller.com/hardwood-flooring-lakeway-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/lvp-flooring-lakeway-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/tile-installation-lakeway-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Kyle Combo Pages -->
+  <url>
+    <loc>https://atxfloorinstaller.com/hardwood-flooring-kyle-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/lvp-flooring-kyle-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/tile-installation-kyle-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Leander Combo Pages -->
+  <url>
+    <loc>https://atxfloorinstaller.com/hardwood-flooring-leander-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/lvp-flooring-leander-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://atxfloorinstaller.com/tile-installation-leander-tx.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <url>
     <loc>https://atxfloorinstaller.com/blog/flooring-warranty-guide.html</loc>
     <changefreq>monthly</changefreq>
